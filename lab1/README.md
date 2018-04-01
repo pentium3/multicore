@@ -1,5 +1,11 @@
 #
 
+## Files:
+
+pstm.cpp : parallel version of traveling salesman problem
+
+tsm.cpp  :  serial version of traveling salesman problem
+
 ## Compile: 
 
 g++-7 -fopenmp ptsm.cpp -o ptsm.o
