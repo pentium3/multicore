@@ -1,0 +1,6 @@
+## multi-thread Wikipedia crawler
+
+
+compile by the following command:
+
+g++-7 tinyxml2.cpp ptest.cpp -lcurl -fopenmp -o ptest.o

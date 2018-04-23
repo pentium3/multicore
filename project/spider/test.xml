@@ -1,0 +1,12 @@
+<api batchcomplete="">
+<query>
+<pages>
+<page _idx="40874643" pageid="40874643" ns="0" title="Cherry X Disease">
+<extract xml:space="preserve">
+Cherry X disease also known as Cherry Buckskin disease is caused by a plant pathogenic phytoplasma. Phytoplasma's are obligate parasites of plants and insects. They are specialized bacteria, characterized by their lack of a cell wall, often transmitted through insects, and are responsible for large losses in crops, fruit trees, and ornamentals. The phytoplasma causing Cherry X disease has a fairly limited host range mostly of stone fruit trees. Hosts of the pathogen include sweet/sour cherries, choke cherry, peaches, nectarines, almonds, clover, and dandelion. Most commonly the pathogen is introduced into economical fruit orchards from wild choke cherry and herbaceous weed hosts. The pathogen is vectored by mountain and cherry leafhoppers. The mountain leafhopper vectors the pathogen from wild hosts to cherry orchards but does not feed on the other hosts. The cherry leafhopper which feeds on the infected cherry trees then becomes the next vector that transmits from cherry orchards to peach, nectarine, and other economic crops. Control of Cherry X disease is limited to controlling the spread, vectors, and weed hosts of the pathogen. Once the pathogen has infected a tree it is fatal and removal is necessary to stop it from becoming a reservoir for vectors.
+</extract>
+</page>
+</pages>
+</query>
+<limits extracts="20"/>
+</api>
